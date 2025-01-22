@@ -1,0 +1,102 @@
+[
+  {
+    "UserID": 1,
+    "Name": "Kovács Péter",
+    "Email": "kovacs.peter@example.com",
+    "Password": "peter123",
+    "Height": 180,
+    "Weight": 75,
+    "Age": 30,
+    "Gender": "Male"
+  },
+  {
+    "UserID": 2,
+    "Name": "Nagy Eszter",
+    "Email": "nagy.eszter@example.com",
+    "Password": "eszter456",
+    "Height": 165,
+    "Weight": 60,
+    "Age": 28,
+    "Gender": "Female"
+  },
+  {
+    "UserID": 3,
+    "Name": "Tóth András",
+    "Email": "toth.andras@example.com",
+    "Password": "andras789",
+    "Height": 178,
+    "Weight": 80,
+    "Age": 35,
+    "Gender": "Male"
+  },
+  {
+    "UserID": 4,
+    "Name": "Szabó Laura",
+    "Email": "szabo.laura@example.com",
+    "Password": "laura1122",
+    "Height": 170,
+    "Weight": 65,
+    "Age": 25,
+    "Gender": "Female"
+  },
+  {
+    "UserID": 5,
+    "Name": "Kiss Zoltán",
+    "Email": "kiss.zoltan@example.com",
+    "Password": "zoltan333",
+    "Height": 185,
+    "Weight": 90,
+    "Age": 40,
+    "Gender": "Male"
+  },
+  {
+    "UserID": 6,
+    "Name": "Horváth Júlia",
+    "Email": "horvath.julia@example.com",
+    "Password": "julia444",
+    "Height": 160,
+    "Weight": 55,
+    "Age": 26,
+    "Gender": "Female"
+  },
+  {
+    "UserID": 7,
+    "Name": "Farkas Gábor",
+    "Email": "farkas.gabor@example.com",
+    "Password": "gabor555",
+    "Height": 172,
+    "Weight": 70,
+    "Age": 32,
+    "Gender": "Male"
+  },
+  {
+    "UserID": 8,
+    "Name": "Papp Anna",
+    "Email": "papp.anna@example.com",
+    "Password": "anna666",
+    "Height": 168,
+    "Weight": 58,
+    "Age": 29,
+    "Gender": "Female"
+  },
+  {
+    "UserID": 9,
+    "Name": "Molnár Márk",
+    "Email": "molnar.mark@example.com",
+    "Password": "mark777",
+    "Height": 177,
+    "Weight": 82,
+    "Age": 33,
+    "Gender": "Male"
+  },
+  {
+    "UserID": 10,
+    "Name": "Varga Zsófia",
+    "Email": "varga.zsofia@example.com",
+    "Password": "zsofia888",
+    "Height": 163,
+    "Weight": 59,
+    "Age": 27,
+    "Gender": "Female"
+  }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "UserID": 1,
+        "WorkoutID": 1,
+        "Sets": 4,
+        "Reps": 12,
+        "Date": "2025-01-20"
+    },
+    {
+        "UserID": 2,
+        "WorkoutID": 2,
+        "Sets": 3,
+        "Reps": 10,
+        "Date": "2025-01-21"
+    },
+    {
+        "UserID": 3,
+        "WorkoutID": 3,
+        "Sets": 4,
+        "Reps": 8,
+        "Date": "2025-01-22"
+    },
+    {
+        "UserID": 4,
+        "WorkoutID": 4,
+        "Sets": 5,
+        "Reps": 15,
+        "Date": "2025-01-22"
+    },
+    {
+        "UserID": 5,
+        "WorkoutID": 5,
+        "Sets": 3,
+        "Reps": 12,
+        "Date": "2025-01-22"
+    },
+    {
+        "UserID": 6,
+        "WorkoutID": 6,
+        "Sets": 4,
+        "Reps": 10,
+        "Date": "2025-01-20"
+    },
+    {
+        "UserID": 7,
+        "WorkoutID": 7,
+        "Sets": 4,
+        "Reps": 12,
+        "Date": "2025-01-21"
+    },
+    {
+        "UserID": 8,
+        "WorkoutID": 8,
+        "Sets": 3,
+        "Reps": 15,
+        "Date": "2025-01-23"
+    },
+    {
+        "UserID": 9,
+        "WorkoutID": 9,
+        "Sets": 4,
+        "Reps": 8,
+        "Date": "2025-01-23"
+    },
+    {
+        "UserID": 10,
+        "WorkoutID": 10,
+        "Sets": 5,
+        "Reps": 12,
+        "Date": "2025-01-23"
+    },
+    {
+        "UserID": 1,
+        "WorkoutID": 11,
+        "Sets": 4,
+        "Reps": 10,
+        "Date": "2025-01-24"
+    },
+    {
+        "UserID": 2,
+        "WorkoutID": 12,
+        "Sets": 3,
+        "Reps": 12,
+        "Date": "2025-01-24"
+    },
+    {
+        "UserID": 3,
+        "WorkoutID": 13,
+        "Sets": 4,
+        "Reps": 8,
+        "Date": "2025-01-24"
+    },
+    {
+        "UserID": 4,
+        "WorkoutID": 14,
+        "Sets": 5,
+        "Reps": 12,
+        "Date": "2025-01-24"
+    },
+    {
+        "UserID": 5,
+        "WorkoutID": 15,
+        "Sets": 3,
+        "Reps": 12,
+        "Date": "2025-01-25"
+    },
+    {
+        "UserID": 6,
+        "WorkoutID": 16,
+        "Sets": 4,
+        "Reps": 10,
+        "Date": "2025-01-25"
+    },
+    {
+        "UserID": 7,
+        "WorkoutID": 17,
+        "Sets": 5,
+        "Reps": 15,
+        "Date": "2025-01-25"
+    },
+    {
+        "UserID": 8,
+        "WorkoutID": 18,
+        "Sets": 4,
+        "Reps": 10,
+        "Date": "2025-01-25"
+    },
+    {
+        "UserID": 9,
+        "WorkoutID": 19,
+        "Sets": 3,
+        "Reps": 12,
+        "Date": "2025-01-26"
+    },
+    {
+        "UserID": 10,
+        "WorkoutID": 20,
+        "Sets": 4,
+        "Reps": 15,
+        "Date": "2025-01-26"
+    },
+    {
+        "UserID": 1,
+        "WorkoutID": 2,
+        "Sets": 4,
+        "Reps": 12,
+        "Date": "2025-01-26"
+    },
+    {
+        "UserID": 2,
+        "WorkoutID": 3,
+        "Sets": 5,
+        "Reps": 15,
+        "Date": "2025-01-26"
+    },
+    {
+        "UserID": 3,
+        "WorkoutID": 5,
+        "Sets": 4,
+        "Reps": 10,
+        "Date": "2025-01-26"
+    },
+    {
+        "UserID": 4,
+        "WorkoutID": 7,
+        "Sets": 5,
+        "Reps": 12,
+        "Date": "2025-01-26"
+    },
+    {
+        "UserID": 5,
+        "WorkoutID": 9,
+        "Sets": 4,
+        "Reps": 10,
+        "Date": "2025-01-26"
+    }
+]

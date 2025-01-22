@@ -1,0 +1,156 @@
+[
+    {
+        "UserID": 1,
+        "DayOfWeek": "Monday",
+        "WorkoutID": 1,
+        "ScheduledTime": "18:00",
+        "Duration": "45 minutes"
+    },
+    {
+        "UserID": 1,
+        "DayOfWeek": "Wednesday",
+        "WorkoutID": 2,
+        "ScheduledTime": "17:00",
+        "Duration": "30 minutes"
+    },
+    {
+        "UserID": 1,
+        "DayOfWeek": "Friday",
+        "WorkoutID": 3,
+        "ScheduledTime": "19:00",
+        "Duration": "60 minutes"
+    },
+    {
+        "UserID": 2,
+        "DayOfWeek": "Tuesday",
+        "WorkoutID": 4,
+        "ScheduledTime": "18:30",
+        "Duration": "45 minutes"
+    },
+    {
+        "UserID": 2,
+        "DayOfWeek": "Thursday",
+        "WorkoutID": 5,
+        "ScheduledTime": "16:00",
+        "Duration": "40 minutes"
+    },
+    {
+        "UserID": 3,
+        "DayOfWeek": "Monday",
+        "WorkoutID": 6,
+        "ScheduledTime": "20:00",
+        "Duration": "50 minutes"
+    },
+    {
+        "UserID": 3,
+        "DayOfWeek": "Wednesday",
+        "WorkoutID": 7,
+        "ScheduledTime": "18:00",
+        "Duration": "60 minutes"
+    },
+    {
+        "UserID": 3,
+        "DayOfWeek": "Friday",
+        "WorkoutID": 8,
+        "ScheduledTime": "17:00",
+        "Duration": "45 minutes"
+    },
+    {
+        "UserID": 4,
+        "DayOfWeek": "Tuesday",
+        "WorkoutID": 9,
+        "ScheduledTime": "19:30",
+        "Duration": "40 minutes"
+    },
+    {
+        "UserID": 4,
+        "DayOfWeek": "Thursday",
+        "WorkoutID": 10,
+        "ScheduledTime": "16:30",
+        "Duration": "60 minutes"
+    },
+    {
+        "UserID": 5,
+        "DayOfWeek": "Monday",
+        "WorkoutID": 11,
+        "ScheduledTime": "17:00",
+        "Duration": "30 minutes"
+    },
+    {
+        "UserID": 5,
+        "DayOfWeek": "Wednesday",
+        "WorkoutID": 12,
+        "ScheduledTime": "18:00",
+        "Duration": "45 minutes"
+    },
+    {
+        "UserID": 6,
+        "DayOfWeek": "Tuesday",
+        "WorkoutID": 13,
+        "ScheduledTime": "20:00",
+        "Duration": "60 minutes"
+    },
+    {
+        "UserID": 6,
+        "DayOfWeek": "Thursday",
+        "WorkoutID": 14,
+        "ScheduledTime": "18:00",
+        "Duration": "45 minutes"
+    },
+    {
+        "UserID": 7,
+        "DayOfWeek": "Monday",
+        "WorkoutID": 15,
+        "ScheduledTime": "19:00",
+        "Duration": "40 minutes"
+    },
+    {
+        "UserID": 7,
+        "DayOfWeek": "Wednesday",
+        "WorkoutID": 16,
+        "ScheduledTime": "17:30",
+        "Duration": "50 minutes"
+    },
+    {
+        "UserID": 8,
+        "DayOfWeek": "Tuesday",
+        "WorkoutID": 17,
+        "ScheduledTime": "18:30",
+        "Duration": "45 minutes"
+    },
+    {
+        "UserID": 8,
+        "DayOfWeek": "Thursday",
+        "WorkoutID": 18,
+        "ScheduledTime": "19:00",
+        "Duration": "60 minutes"
+    },
+    {
+        "UserID": 9,
+        "DayOfWeek": "Monday",
+        "WorkoutID": 19,
+        "ScheduledTime": "18:00",
+        "Duration": "45 minutes"
+    },
+    {
+        "UserID": 9,
+        "DayOfWeek": "Friday",
+        "WorkoutID": 20,
+        "ScheduledTime": "17:00",
+        "Duration": "40 minutes"
+    },
+    {
+        "UserID": 10,
+        "DayOfWeek": "Wednesday",
+        "WorkoutID": 1,
+        "ScheduledTime": "20:00",
+        "Duration": "60 minutes"
+    },
+    {
+        "UserID": 10,
+        "DayOfWeek": "Friday",
+        "WorkoutID": 2,
+        "ScheduledTime": "16:30",
+        "Duration": "45 minutes"
+    }
+]

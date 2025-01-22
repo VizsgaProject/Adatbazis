@@ -1,0 +1,236 @@
+[
+    {
+        "FoodID": 1,
+        "Name": "Alma",
+        "Weight": 100,
+        "Calories": 52,
+        "Protein": 0.3,
+        "Carbohydrate": 14,
+        "Fat": 0.2
+    },
+    {
+        "FoodID": 2,
+        "Name": "Csirkemell",
+        "Weight": 100,
+        "Calories": 165,
+        "Protein": 31,
+        "Carbohydrate": 0,
+        "Fat": 3.6
+    },
+    {
+        "FoodID": 3,
+        "Name": "Barna rizs",
+        "Weight": 100,
+        "Calories": 123,
+        "Protein": 2.6,
+        "Carbohydrate": 25.8,
+        "Fat": 1
+    },
+    {
+        "FoodID": 4,
+        "Name": "Avokádó",
+        "Weight": 100,
+        "Calories": 160,
+        "Protein": 2,
+        "Carbohydrate": 8.5,
+        "Fat": 14.7
+    },
+    {
+        "FoodID": 5,
+        "Name": "Banán",
+        "Weight": 100,
+        "Calories": 89,
+        "Protein": 1.1,
+        "Carbohydrate": 22.8,
+        "Fat": 0.3
+    },
+    {
+        "FoodID": 6,
+        "Name": "Tojás",
+        "Weight": 50,
+        "Calories": 72,
+        "Protein": 6.3,
+        "Carbohydrate": 0.6,
+        "Fat": 4.8
+    },
+    {
+        "FoodID": 7,
+        "Name": "Kelkáposzta",
+        "Weight": 100,
+        "Calories": 49,
+        "Protein": 4.3,
+        "Carbohydrate": 9.2,
+        "Fat": 0.9
+    },
+    {
+        "FoodID": 8,
+        "Name": "Édesburgonya",
+        "Weight": 100,
+        "Calories": 86,
+        "Protein": 1.6,
+        "Carbohydrate": 20.1,
+        "Fat": 0.1
+    },
+    {
+        "FoodID": 9,
+        "Name": "Lazac",
+        "Weight": 100,
+        "Calories": 206,
+        "Protein": 22,
+        "Carbohydrate": 0,
+        "Fat": 12
+    },
+    {
+        "FoodID": 10,
+        "Name": "Mogyoróvaj",
+        "Weight": 32,
+        "Calories": 190,
+        "Protein": 8,
+        "Carbohydrate": 6,
+        "Fat": 16
+    },
+    {
+        "FoodID": 11,
+        "Name": "Csirke saláta",
+        "Weight": 300,
+        "Calories": 250,
+        "Protein": 30,
+        "Carbohydrate": 10,
+        "Fat": 12
+    },
+    {
+        "FoodID": 12,
+        "Name": "Vegetáriánus pizza",
+        "Weight": 350,
+        "Calories": 450,
+        "Protein": 12,
+        "Carbohydrate": 55,
+        "Fat": 20
+    },
+    {
+        "FoodID": 13,
+        "Name": "Lazacos tészta",
+        "Weight": 400,
+        "Calories": 500,
+        "Protein": 35,
+        "Carbohydrate": 60,
+        "Fat": 18
+    },
+    {
+        "FoodID": 14,
+        "Name": "Bolognai spagetti",
+        "Weight": 350,
+        "Calories": 400,
+        "Protein": 20,
+        "Carbohydrate": 55,
+        "Fat": 12
+    },
+    {
+        "FoodID": 15,
+        "Name": "Kacsasült zöldségekkel",
+        "Weight": 500,
+        "Calories": 650,
+        "Protein": 45,
+        "Carbohydrate": 30,
+        "Fat": 35
+    },
+    {
+        "FoodID": 16,
+        "Name": "Tojásos rakott krumpli",
+        "Weight": 350,
+        "Calories": 550,
+        "Protein": 15,
+        "Carbohydrate": 60,
+        "Fat": 25
+    },
+    {
+        "FoodID": 17,
+        "Name": "Tenger gyümölcsei paella",
+        "Weight": 400,
+        "Calories": 400,
+        "Protein": 25,
+        "Carbohydrate": 45,
+        "Fat": 12
+    },
+    {
+        "FoodID": 18,
+        "Name": "Falafel tál",
+        "Weight": 350,
+        "Calories": 400,
+        "Protein": 15,
+        "Carbohydrate": 45,
+        "Fat": 18
+    },
+    {
+        "FoodID": 19,
+        "Name": "Grillezett csirke rizzsel",
+        "Weight": 450,
+        "Calories": 500,
+        "Protein": 40,
+        "Carbohydrate": 45,
+        "Fat": 12
+    },
+    {
+        "FoodID": 20,
+        "Name": "Húsleves zöldségekkel",
+        "Weight": 300,
+        "Calories": 150,
+        "Protein": 12,
+        "Carbohydrate": 20,
+        "Fat": 6
+    },
+    {
+        "FoodID": 21,
+        "Name": "Füstölt lazacos saláta",
+        "Weight": 300,
+        "Calories": 320,
+        "Protein": 25,
+        "Carbohydrate": 12,
+        "Fat": 18
+    },
+    {
+        "FoodID": 22,
+        "Name": "Sült tofu quinoa salátával",
+        "Weight": 350,
+        "Calories": 400,
+        "Protein": 20,
+        "Carbohydrate": 45,
+        "Fat": 15
+    },
+    {
+        "FoodID": 23,
+        "Name": "Töltött paprika",
+        "Weight": 350,
+        "Calories": 300,
+        "Protein": 18,
+        "Carbohydrate": 40,
+        "Fat": 8
+    },
+    {
+        "FoodID": 24,
+        "Name": "Pulykafasírt párolt zöldségekkel",
+        "Weight": 400,
+        "Calories": 450,
+        "Protein": 35,
+        "Carbohydrate": 30,
+        "Fat": 18
+    },
+    {
+        "FoodID": 25,
+        "Name": "Quinoa saláta csirkemellel",
+        "Weight": 350,
+        "Calories": 400,
+        "Protein": 35,
+        "Carbohydrate": 45,
+        "Fat": 12
+    },
+    {
+        "FoodID": 26,
+        "Name": "Pad Thai",
+        "Weight": 400,
+        "Calories": 500,
+        "Protein": 20,
+        "Carbohydrate": 70,
+        "Fat": 15
+    }
+]
