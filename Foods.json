@@ -4,9 +4,9 @@
         "Name": "Alma",
         "Weight": 100,
         "Calories": 52,
-        "Protein": 0.3,
+        "Protein": 0,
         "Carbohydrate": 14,
-        "Fat": 0.2,
+        "Fat": 0,
         "Type": "zöldség"
     },
     {
@@ -16,7 +16,7 @@
         "Calories": 165,
         "Protein": 31,
         "Carbohydrate": 0,
-        "Fat": 3.6,
+        "Fat": 4,
         "Type": "hús"
     },
     {
@@ -24,9 +24,10 @@
         "Name": "Barna rizs",
         "Weight": 100,
         "Calories": 123,
-        "Protein": 2.6,
-        "Carbohydrate": 25.8,
-        "Fat": 1
+        "Protein": 3,
+        "Carbohydrate": 26,
+        "Fat": 1,
+        "Type": "gabona"
     },
     {
         "FoodID": 4,
@@ -34,44 +35,49 @@
         "Weight": 100,
         "Calories": 160,
         "Protein": 2,
-        "Carbohydrate": 8.5,
-        "Fat": 14.7
+        "Carbohydrate": 9,
+        "Fat": 15,
+        "Type": "gyümölcs"
     },
     {
         "FoodID": 5,
         "Name": "Banán",
         "Weight": 100,
         "Calories": 89,
-        "Protein": 1.1,
-        "Carbohydrate": 22.8,
-        "Fat": 0.3
+        "Protein": 1,
+        "Carbohydrate": 23,
+        "Fat": 0,
+        "Type": "gyümölcs"
     },
     {
         "FoodID": 6,
         "Name": "Tojás",
         "Weight": 50,
         "Calories": 72,
-        "Protein": 6.3,
-        "Carbohydrate": 0.6,
-        "Fat": 4.8
+        "Protein": 6,
+        "Carbohydrate": 1,
+        "Fat": 5,
+        "Type": "fehérje"
     },
     {
         "FoodID": 7,
         "Name": "Kelkáposzta",
         "Weight": 100,
         "Calories": 49,
-        "Protein": 4.3,
-        "Carbohydrate": 9.2,
-        "Fat": 0.9
+        "Protein": 4,
+        "Carbohydrate": 9,
+        "Fat": 1,
+        "Type": "zöldség"
     },
     {
         "FoodID": 8,
         "Name": "Édesburgonya",
         "Weight": 100,
         "Calories": 86,
-        "Protein": 1.6,
-        "Carbohydrate": 20.1,
-        "Fat": 0.1
+        "Protein": 2,
+        "Carbohydrate": 20,
+        "Fat": 0,
+        "Type": "zöldség"
     },
     {
         "FoodID": 9,
@@ -80,7 +86,8 @@
         "Calories": 206,
         "Protein": 22,
         "Carbohydrate": 0,
-        "Fat": 12
+        "Fat": 12,
+        "Type": "hús"
     },
     {
         "FoodID": 10,
@@ -89,7 +96,8 @@
         "Calories": 190,
         "Protein": 8,
         "Carbohydrate": 6,
-        "Fat": 16
+        "Fat": 16,
+        "Type": "fehérje"
     },
     {
         "FoodID": 11,
@@ -99,7 +107,7 @@
         "Protein": 30,
         "Carbohydrate": 10,
         "Fat": 12,
-        "Type": "Készétel"
+        "Type": "készétel"
     },
     {
         "FoodID": 12,
@@ -108,7 +116,8 @@
         "Calories": 450,
         "Protein": 12,
         "Carbohydrate": 55,
-        "Fat": 20
+        "Fat": 20,
+        "Type": "készétel"
     },
     {
         "FoodID": 13,
@@ -117,7 +126,8 @@
         "Calories": 500,
         "Protein": 35,
         "Carbohydrate": 60,
-        "Fat": 18
+        "Fat": 18,
+        "Type": "készétel"
     },
     {
         "FoodID": 14,
@@ -126,7 +136,8 @@
         "Calories": 400,
         "Protein": 20,
         "Carbohydrate": 55,
-        "Fat": 12
+        "Fat": 12,
+        "Type": "készétel"
     },
     {
         "FoodID": 15,
@@ -135,7 +146,8 @@
         "Calories": 650,
         "Protein": 45,
         "Carbohydrate": 30,
-        "Fat": 35
+        "Fat": 35,
+        "Type": "készétel"
     },
     {
         "FoodID": 16,
@@ -144,7 +156,8 @@
         "Calories": 550,
         "Protein": 15,
         "Carbohydrate": 60,
-        "Fat": 25
+        "Fat": 25,
+        "Type": "készétel"
     },
     {
         "FoodID": 17,
@@ -153,7 +166,8 @@
         "Calories": 400,
         "Protein": 25,
         "Carbohydrate": 45,
-        "Fat": 12
+        "Fat": 12,
+        "Type": "készétel"
     },
     {
         "FoodID": 18,
@@ -162,7 +176,8 @@
         "Calories": 400,
         "Protein": 15,
         "Carbohydrate": 45,
-        "Fat": 18
+        "Fat": 18,
+        "Type": "készétel"
     },
     {
         "FoodID": 19,
@@ -171,7 +186,8 @@
         "Calories": 500,
         "Protein": 40,
         "Carbohydrate": 45,
-        "Fat": 12
+        "Fat": 12,
+        "Type": "készétel"
     },
     {
         "FoodID": 20,
@@ -180,7 +196,8 @@
         "Calories": 150,
         "Protein": 12,
         "Carbohydrate": 20,
-        "Fat": 6
+        "Fat": 6,
+        "Type": "készétel"
     },
     {
         "FoodID": 21,
@@ -189,7 +206,8 @@
         "Calories": 320,
         "Protein": 25,
         "Carbohydrate": 12,
-        "Fat": 18
+        "Fat": 18,
+        "Type": "készétel"
     },
     {
         "FoodID": 22,
@@ -198,7 +216,8 @@
         "Calories": 400,
         "Protein": 20,
         "Carbohydrate": 45,
-        "Fat": 15
+        "Fat": 15,
+        "Type": "készétel"
     },
     {
         "FoodID": 23,
@@ -207,7 +226,8 @@
         "Calories": 300,
         "Protein": 18,
         "Carbohydrate": 40,
-        "Fat": 8
+        "Fat": 8,
+        "Type": "készétel"
     },
     {
         "FoodID": 24,
@@ -216,7 +236,8 @@
         "Calories": 450,
         "Protein": 35,
         "Carbohydrate": 30,
-        "Fat": 18
+        "Fat": 18,
+        "Type": "készétel"
     },
     {
         "FoodID": 25,
@@ -225,7 +246,8 @@
         "Calories": 400,
         "Protein": 35,
         "Carbohydrate": 45,
-        "Fat": 12
+        "Fat": 12,
+        "Type": "készétel"
     },
     {
         "FoodID": 26,
@@ -234,6 +256,7 @@
         "Calories": 500,
         "Protein": 20,
         "Carbohydrate": 70,
-        "Fat": 15
+        "Fat": 15,
+        "Type": "készétel"
     }
 ]
