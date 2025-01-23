@@ -6,7 +6,8 @@
         "Calories": 52,
         "Protein": 0.3,
         "Carbohydrate": 14,
-        "Fat": 0.2
+        "Fat": 0.2,
+        "Type": "zöldség"
     },
     {
         "FoodID": 2,
@@ -15,7 +16,8 @@
         "Calories": 165,
         "Protein": 31,
         "Carbohydrate": 0,
-        "Fat": 3.6
+        "Fat": 3.6,
+        "Type": "hús"
     },
     {
         "FoodID": 3,
@@ -96,7 +98,8 @@
         "Calories": 250,
         "Protein": 30,
         "Carbohydrate": 10,
-        "Fat": 12
+        "Fat": 12,
+        "Type": "Készétel"
     },
     {
         "FoodID": 12,
