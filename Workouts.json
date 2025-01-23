@@ -1,272 +1,107 @@
 [
     {
         "WorkoutID": 1,
-        "MuscleGroup": "Hát",
-        "Name": "Felhúzás",
-        "Description": "Egy összetett gyakorlat, amely a hát alsó részét, a farizmot és a comb hátsó részét célozza meg.",
-        "Sets": 4,
-        "Reps": 8,
-        "Equipment": "Rúd"
+        "MuscleGroup": "Mell",
+        "Name": "Fekvenyomás",
+        "Description": "Egy klasszikus gyakorlat a mellizmok erősítésére.",
+        "Equipment": "Rúd és súlyok"
     },
     {
         "WorkoutID": 2,
-        "MuscleGroup": "Mellkas",
-        "Name": "Fekvenyomás",
-        "Description": "Alapvető mellizom gyakorlat, amely a pectoralis izmokat célozza meg.",
-        "Sets": 4,
-        "Reps": 10,
-        "Equipment": "Rúd"
+        "MuscleGroup": "Hát",
+        "Name": "Húzódzkodás",
+        "Description": "Egy saját testsúlyos gyakorlat a hát és a karok erősítésére.",
+        "Equipment": "Húzódzkodó rúd"
     },
     {
         "WorkoutID": 3,
-        "MuscleGroup": "Lábak",
+        "MuscleGroup": "Láb",
         "Name": "Guggolás",
-        "Description": "Egy összetett alsótest gyakorlat, amely a combot, a farizmot és a lábszárat célozza meg.",
-        "Sets": 5,
-        "Reps": 6,
-        "Equipment": "Rúd"
+        "Description": "Alapvető gyakorlat a comb és farizmok edzésére.",
+        "Equipment": "Rúd és súlyok"
     },
     {
         "WorkoutID": 4,
-        "MuscleGroup": "Vállak",
-        "Name": "Felnyomás",
-        "Description": "Egy felsőtest gyakorlat, amely a deltákat és a tricepszeket célozza meg.",
-        "Sets": 4,
-        "Reps": 8,
-        "Equipment": "Kettlebell"
+        "MuscleGroup": "Váll",
+        "Name": "Oldalemelés",
+        "Description": "Egy izolációs gyakorlat az oldalsó delták erősítésére.",
+        "Equipment": "Kézi súlyzók"
     },
     {
         "WorkoutID": 5,
-        "MuscleGroup": "Karok",
+        "MuscleGroup": "Kar",
         "Name": "Bicepsz hajlítás",
-        "Description": "Izolációs gyakorlat, amely a bicepszeket célozza meg, használható kézi súlyzóval vagy rúddal.",
-        "Sets": 3,
-        "Reps": 12,
-        "Equipment": "Kézi súlyzó"
+        "Description": "Egy alap gyakorlat a bicepsz erősítésére.",
+        "Equipment": "Kézi súlyzók"
     },
     {
         "WorkoutID": 6,
-        "MuscleGroup": "Mellkas",
-        "Name": "Fekvőtámasz",
-        "Description": "Testtömeges gyakorlat, amely a mellkast, a vállakat és a tricepszeket célozza meg.",
-        "Sets": 4,
-        "Reps": 15,
-        "Equipment": "Testtömeg"
+        "MuscleGroup": "Core",
+        "Name": "Plank",
+        "Description": "Statikus gyakorlat a core izmok erősítésére.",
+        "Equipment": "Nincs"
     },
     {
         "WorkoutID": 7,
         "MuscleGroup": "Hát",
-        "Name": "Húzódzkodás",
-        "Description": "Felsőtest húzó gyakorlat, amely a hátat és a bicepszeket célozza meg.",
-        "Sets": 3,
-        "Reps": 8,
-        "Equipment": "Húzódzkodó rúd"
+        "Name": "Evezés döntött törzzsel",
+        "Description": "Kiváló gyakorlat a széles hátizmok fejlesztésére.",
+        "Equipment": "Rúd és súlyok"
     },
     {
         "WorkoutID": 8,
-        "MuscleGroup": "Lábak",
-        "Name": "Lábtoló gép",
-        "Description": "Gépes gyakorlat, amely a combot, a farizmot és a lábszárat célozza meg.",
-        "Sets": 4,
-        "Reps": 10,
-        "Equipment": "Lábtoló gép"
+        "MuscleGroup": "Mell",
+        "Name": "Tárogatás kézi súlyzóval",
+        "Description": "Izolációs gyakorlat a mellizom belső részére.",
+        "Equipment": "Kézi súlyzók"
     },
     {
         "WorkoutID": 9,
-        "MuscleGroup": "Vállak",
-        "Name": "Oldalemelés",
-        "Description": "Izolációs gyakorlat, amely a vállak oldalsó deltáit célozza meg.",
-        "Sets": 3,
-        "Reps": 12,
-        "Equipment": "Kézi súlyzó"
+        "MuscleGroup": "Láb",
+        "Name": "Kitörés",
+        "Description": "Az egyensúlyt és az erőt fejlesztő alapvető lábgyakorlat.",
+        "Equipment": "Kézi súlyzók"
     },
     {
         "WorkoutID": 10,
-        "MuscleGroup": "Karok",
-        "Name": "Tricepsz tolódzkodás",
-        "Description": "Egy gyakorlat, amely a tricepszeket célozza meg, testtömeggel vagy extra súllyal.",
-        "Sets": 4,
-        "Reps": 10,
-        "Equipment": "Tolódzkodó korlát"
+        "MuscleGroup": "Váll",
+        "Name": "Vállból nyomás",
+        "Description": "Alapgyakorlat a vállak erősítésére.",
+        "Equipment": "Rúd vagy kézi súlyzók"
     },
     {
         "WorkoutID": 11,
-        "MuscleGroup": "Hát",
-        "Name": "Evezés",
-        "Description": "Egy olyan gyakorlat, amely a hát középső részét és a bicepszeket célozza meg.",
-        "Sets": 4,
-        "Reps": 10,
-        "Equipment": "Kábel gép"
+        "MuscleGroup": "Core",
+        "Name": "Hasprés",
+        "Description": "Egyszerű gyakorlat a hasizmok fejlesztésére.",
+        "Equipment": "Nincs"
     },
     {
         "WorkoutID": 12,
-        "MuscleGroup": "Mellkas",
-        "Name": "Domború fekvenyomás",
-        "Description": "A fekvenyomás egy változata, amely a mellkas felső részét célozza meg.",
-        "Sets": 4,
-        "Reps": 8,
-        "Equipment": "Rúd"
+        "MuscleGroup": "Kar",
+        "Name": "Tricepsz nyújtás fej fölött",
+        "Description": "Izolációs gyakorlat a tricepsz erősítésére.",
+        "Equipment": "Kézi súlyzó"
     },
     {
         "WorkoutID": 13,
-        "MuscleGroup": "Lábak",
-        "Name": "Combfeszítés",
-        "Description": "Izolációs gyakorlat, amely a quadriceps izmokat célozza meg.",
-        "Sets": 4,
-        "Reps": 12,
-        "Equipment": "Gépes combfeszítő"
+        "MuscleGroup": "Hát",
+        "Name": "Merev lábas felhúzás",
+        "Description": "Gyakorlat a hát alsó részére és a combhajlítókra.",
+        "Equipment": "Rúd és súlyok"
     },
     {
         "WorkoutID": 14,
-        "MuscleGroup": "Vállak",
-        "Name": "Arnold nyomás",
-        "Description": "Egy vállgyakorlat, amely a delták teljes körű megdolgoztatására szolgál.",
-        "Sets": 4,
-        "Reps": 8,
-        "Equipment": "Kézi súlyzó"
+        "MuscleGroup": "Mell",
+        "Name": "Tolódzkodás",
+        "Description": "Saját testsúlyos gyakorlat a mellizmok és tricepsz fejlesztésére.",
+        "Equipment": "Tolódzkodó keret"
     },
     {
         "WorkoutID": 15,
-        "MuscleGroup": "Karok",
-        "Name": "Kalapács bicepsz",
-        "Description": "Egy bicepsz gyakorlat, amely a kar izmait célozza meg, különösen a brachialis izmokat.",
-        "Sets": 3,
-        "Reps": 12,
-        "Equipment": "Kézi súlyzó"
-    },
-    {
-        "WorkoutID": 16,
-        "MuscleGroup": "Hát",
-        "Name": "Szűk evezés",
-        "Description": "A hát középső részének és a bicepszek fejlesztésére szolgáló gyakorlat, melyet a rúddal vagy kábelgéppel végezhetünk.",
-        "Sets": 4,
-        "Reps": 8,
-        "Equipment": "Kábel gép"
-    },
-    {
-        "WorkoutID": 17,
-        "MuscleGroup": "Mellkas",
-        "Name": "Fekvenyomás ferde padon",
-        "Description": "A mellkas felső részének fejlesztésére szolgáló gyakorlat, amely a ferde padon történik.",
-        "Sets": 4,
-        "Reps": 10,
-        "Equipment": "Rúd"
-    },
-    {
-        "WorkoutID": 18,
-        "MuscleGroup": "Lábak",
-        "Name": "Lábtolás",
-        "Description": "A lábizmok (quadriceps, hamstring) és a farizmok fejlesztésére szolgáló gépes gyakorlat.",
-        "Sets": 4,
-        "Reps": 12,
+        "MuscleGroup": "Láb",
+        "Name": "Lábtolás gépen",
+        "Description": "Gyakorlat a combizmok fejlesztésére.",
         "Equipment": "Lábtoló gép"
-    },
-    {
-        "WorkoutID": 19,
-        "MuscleGroup": "Vállak",
-        "Name": "Vállból nyomás",
-        "Description": "A delták és tricepszek edzésére szolgáló gyakorlat, amelyet egyenes állásban végeznek.",
-        "Sets": 4,
-        "Reps": 8,
-        "Equipment": "Kettlebell"
-    },
-    {
-        "WorkoutID": 20,
-        "MuscleGroup": "Karok",
-        "Name": "Tricepsz nyújtás fejtetőn",
-        "Description": "A tricepszek izolált fejlesztésére szolgáló gyakorlat, amely súlyzóval vagy kábelgéppel végezhető.",
-        "Sets": 4,
-        "Reps": 12,
-        "Equipment": "Kézi súlyzó"
-    },
-    {
-        "WorkoutID": 21,
-        "MuscleGroup": "Hát",
-        "Name": "T-rúd evezés",
-        "Description": "A hát középső részének és a bicepszek erősítésére szolgáló gyakorlat, amely a T-rúd segítségével történik.",
-        "Sets": 4,
-        "Reps": 10,
-        "Equipment": "T-rúd"
-    },
-    {
-        "WorkoutID": 22,
-        "MuscleGroup": "Lábak",
-        "Name": "Combfeszítés gépen",
-        "Description": "A quadriceps izmok izolált edzésére szolgáló gépes gyakorlat.",
-        "Sets": 4,
-        "Reps": 12,
-        "Equipment": "Combfeszítő gép"
-    },
-    {
-        "WorkoutID": 23,
-        "MuscleGroup": "Vállak",
-        "Name": "Vállvonogatás",
-        "Description": "A trapéz izmok fejlesztésére szolgáló gyakorlat, amelyet súlyzóval vagy rúddal végeznek.",
-        "Sets": 4,
-        "Reps": 12,
-        "Equipment": "Kézi súlyzó"
-    },
-    {
-        "WorkoutID": 24,
-        "MuscleGroup": "Karok",
-        "Name": "Előre bicepsz hajlítás",
-        "Description": "A bicepsz izmok fejlesztésére szolgáló izolációs gyakorlat, amelyet kézi súlyzóval végeznek.",
-        "Sets": 3,
-        "Reps": 12,
-        "Equipment": "Kézi súlyzó"
-    },
-    {
-        "WorkoutID": 25,
-        "MuscleGroup": "Mellkas",
-        "Name": "Kábel keresztbevontatás",
-        "Description": "A mellizmok fejlesztésére szolgáló gépes gyakorlat, amely a mellkas belső részét célozza meg.",
-        "Sets": 4,
-        "Reps": 12,
-        "Equipment": "Kábel gép"
-    },
-    {
-        "WorkoutID": 26,
-        "MuscleGroup": "Hát",
-        "Name": "Lat pulldown",
-        "Description": "A széles hátizmok fejlesztésére szolgáló gépes gyakorlat.",
-        "Sets": 4,
-        "Reps": 10,
-        "Equipment": "Kábel gép"
-    },
-    {
-        "WorkoutID": 27,
-        "MuscleGroup": "Lábak",
-        "Name": "Kettlebell swing",
-        "Description": "A kettlebell segítségével végzett gyakorlat, amely a hátsó láncot (comb hátsó rész, farizom) dolgoztatja meg.",
-        "Sets": 4,
-        "Reps": 15,
-        "Equipment": "Kettlebell"
-    },
-    {
-        "WorkoutID": 28,
-        "MuscleGroup": "Karok",
-        "Name": "Súlyzó tricepsz nyújtás",
-        "Description": "A tricepszek izolált fejlesztésére szolgáló gyakorlat, amelyet súlyzóval végeznek.",
-        "Sets": 4,
-        "Reps": 12,
-        "Equipment": "Kézi súlyzó"
-    },
-    {
-        "WorkoutID": 29,
-        "MuscleGroup": "Mellkas",
-        "Name": "Fekvenyomás gépen",
-        "Description": "A mellkas erősítésére szolgáló gépes gyakorlat, amely helyettesítheti a rúddal történő fekvenyomást.",
-        "Sets": 4,
-        "Reps": 10,
-        "Equipment": "Fekvenyomó gép"
-    },
-    {
-        "WorkoutID": 30,
-        "MuscleGroup": "Hát",
-        "Name": "Húzódzkodás, széles fogás",
-        "Description": "A hát széles részének fejlesztésére szolgáló húzó gyakorlat.",
-        "Sets": 3,
-        "Reps": 8,
-        "Equipment": "Húzódzkodó rúd"
     }
 ]

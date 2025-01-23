@@ -1,0 +1,94 @@
+[
+    {
+      "UserID": 1,
+      "FoodID": 1,
+      "Date": "2025-01-22",
+      "Time": "08:30",
+      "Quantity": 250.5
+    },
+    {
+      "UserID": 2,
+      "FoodID": 2,
+      "Date": "2025-01-22",
+      "Time": "12:00",
+      "Quantity": 300.0
+    },
+    {
+      "UserID": 1,
+      "FoodID": 3,
+      "Date": "2025-01-21",
+      "Time": "18:00",
+      "Quantity": 150.0
+    },
+    {
+      "UserID": 3,
+      "FoodID": 4,
+      "Date": "2025-01-20",
+      "Time": "13:30",
+      "Quantity": 500.0
+    },
+    {
+      "UserID": 2,
+      "FoodID": 5,
+      "Date": "2025-01-23",
+      "Time": "19:00",
+      "Quantity": 200.0
+    },
+    {
+      "UserID": 4,
+      "FoodID": 6,
+      "Date": "2025-01-22",
+      "Time": "07:45",
+      "Quantity": 180.0
+    },
+    {
+      "UserID": 5,
+      "FoodID": 7,
+      "Date": "2025-01-23",
+      "Time": "09:30",
+      "Quantity": 120.0
+    },
+    {
+      "UserID": 1,
+      "FoodID": 8,
+      "Date": "2025-01-22",
+      "Time": "14:00",
+      "Quantity": 250.0
+    },
+    {
+      "UserID": 3,
+      "FoodID": 9,
+      "Date": "2025-01-20",
+      "Time": "17:30",
+      "Quantity": 200.0
+    },
+    {
+      "UserID": 4,
+      "FoodID": 10,
+      "Date": "2025-01-22",
+      "Time": "20:00",
+      "Quantity": 150.0
+    },
+    {
+      "UserID": 2,
+      "FoodID": 11,
+      "Date": "2025-01-22",
+      "Time": "11:15",
+      "Quantity": 200.0
+    },
+    {
+      "UserID": 1,
+      "FoodID": 12,
+      "Date": "2025-01-23",
+      "Time": "09:00",
+      "Quantity": 150.0
+    },
+    {
+      "UserID": 5,
+      "FoodID": 13,
+      "Date": "2025-01-20",
+      "Time": "13:00",
+      "Quantity": 250.0
+    }
+  ]
+  

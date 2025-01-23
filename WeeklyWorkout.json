@@ -1,156 +1,242 @@
 [
     {
         "UserID": 1,
-        "DayOfWeek": "Monday",
-        "WorkoutID": 1,
-        "ScheduledTime": "18:00",
-        "Duration": "45 minutes"
-    },
-    {
-        "UserID": 1,
-        "DayOfWeek": "Wednesday",
-        "WorkoutID": 2,
-        "ScheduledTime": "17:00",
-        "Duration": "30 minutes"
-    },
-    {
-        "UserID": 1,
-        "DayOfWeek": "Friday",
-        "WorkoutID": 3,
-        "ScheduledTime": "19:00",
-        "Duration": "60 minutes"
+        "Workouts": [
+            {
+                "DayOfWeek": "Hétfő",
+                "WorkoutsDetails": [
+                    {
+                        "WorkoutID": 4,
+                        "Sets": 3,
+                        "Reps": 12,
+                        "StartTime": "08:00",
+                        "EndTime": "08:30",
+                        "Duration": 30,
+                        "RestDuration": "00:01:30",
+                        "Date": "2025-01-22"
+                    },
+                    {
+                        "WorkoutID": 6,
+                        "Sets": 4,
+                        "Reps": 10,
+                        "StartTime": "08:35",
+                        "EndTime": "09:05",
+                        "Duration": 30,
+                        "RestDuration": "00:01:30",
+                        "Date": "2025-01-22"
+                    }
+                ]
+            },
+            {
+                "DayOfWeek": "Kedd",
+                "WorkoutsDetails": [
+                    {
+                        "WorkoutID": 8,
+                        "Sets": 5,
+                        "Reps": 10,
+                        "StartTime": "09:00",
+                        "EndTime": "09:30",
+                        "Duration": 30,
+                        "RestDuration": "00:02:00",
+                        "Date": "2025-01-23"
+                    },
+                    {
+                        "WorkoutID": 11,
+                        "Sets": 4,
+                        "Reps": 12,
+                        "StartTime": "09:35",
+                        "EndTime": "10:05",
+                        "Duration": 30,
+                        "RestDuration": "00:01:30",
+                        "Date": "2025-01-23"
+                    }
+                ]
+            },
+            {
+                "DayOfWeek": "Szombat",
+                "WorkoutsDetails": [
+                    {
+                        "WorkoutID": 2,
+                        "Sets": 3,
+                        "Reps": 12,
+                        "StartTime": "10:00",
+                        "EndTime": "10:30",
+                        "Duration": 30,
+                        "RestDuration": "00:01:30",
+                        "Date": "2025-01-27"
+                    },
+                    {
+                        "WorkoutID": 5,
+                        "Sets": 4,
+                        "Reps": 15,
+                        "StartTime": "10:35",
+                        "EndTime": "11:05",
+                        "Duration": 30,
+                        "RestDuration": "00:02:00",
+                        "Date": "2025-01-27"
+                    }
+                ]
+            }
+        ]
     },
     {
         "UserID": 2,
-        "DayOfWeek": "Tuesday",
-        "WorkoutID": 4,
-        "ScheduledTime": "18:30",
-        "Duration": "45 minutes"
-    },
-    {
-        "UserID": 2,
-        "DayOfWeek": "Thursday",
-        "WorkoutID": 5,
-        "ScheduledTime": "16:00",
-        "Duration": "40 minutes"
+        "Workouts": [
+            {
+                "DayOfWeek": "Hétfő",
+                "WorkoutsDetails": [
+                    {
+                        "WorkoutID": 1,
+                        "Sets": 4,
+                        "Reps": 12,
+                        "StartTime": "08:00",
+                        "EndTime": "08:40",
+                        "Duration": 40,
+                        "RestDuration": "00:02:00",
+                        "Date": "2025-01-22"
+                    },
+                    {
+                        "WorkoutID": 7,
+                        "Sets": 3,
+                        "Reps": 15,
+                        "StartTime": "08:45",
+                        "EndTime": "09:15",
+                        "Duration": 30,
+                        "RestDuration": "00:02:00",
+                        "Date": "2025-01-22"
+                    }
+                ]
+            },
+            {
+                "DayOfWeek": "Szerda",
+                "WorkoutsDetails": [
+                    {
+                        "WorkoutID": 9,
+                        "Sets": 5,
+                        "Reps": 10,
+                        "StartTime": "07:30",
+                        "EndTime": "08:10",
+                        "Duration": 40,
+                        "RestDuration": "00:02:30",
+                        "Date": "2025-01-24"
+                    },
+                    {
+                        "WorkoutID": 3,
+                        "Sets": 4,
+                        "Reps": 12,
+                        "StartTime": "08:15",
+                        "EndTime": "08:45",
+                        "Duration": 30,
+                        "RestDuration": "00:02:00",
+                        "Date": "2025-01-24"
+                    }
+                ]
+            },
+            {
+                "DayOfWeek": "Péntek",
+                "WorkoutsDetails": [
+                    {
+                        "WorkoutID": 10,
+                        "Sets": 3,
+                        "Reps": 12,
+                        "StartTime": "08:30",
+                        "EndTime": "09:00",
+                        "Duration": 30,
+                        "RestDuration": "00:01:30",
+                        "Date": "2025-01-26"
+                    },
+                    {
+                        "WorkoutID": 12,
+                        "Sets": 4,
+                        "Reps": 10,
+                        "StartTime": "09:05",
+                        "EndTime": "09:35",
+                        "Duration": 30,
+                        "RestDuration": "00:01:30",
+                        "Date": "2025-01-26"
+                    }
+                ]
+            }
+        ]
     },
     {
         "UserID": 3,
-        "DayOfWeek": "Monday",
-        "WorkoutID": 6,
-        "ScheduledTime": "20:00",
-        "Duration": "50 minutes"
-    },
-    {
-        "UserID": 3,
-        "DayOfWeek": "Wednesday",
-        "WorkoutID": 7,
-        "ScheduledTime": "18:00",
-        "Duration": "60 minutes"
-    },
-    {
-        "UserID": 3,
-        "DayOfWeek": "Friday",
-        "WorkoutID": 8,
-        "ScheduledTime": "17:00",
-        "Duration": "45 minutes"
-    },
-    {
-        "UserID": 4,
-        "DayOfWeek": "Tuesday",
-        "WorkoutID": 9,
-        "ScheduledTime": "19:30",
-        "Duration": "40 minutes"
-    },
-    {
-        "UserID": 4,
-        "DayOfWeek": "Thursday",
-        "WorkoutID": 10,
-        "ScheduledTime": "16:30",
-        "Duration": "60 minutes"
-    },
-    {
-        "UserID": 5,
-        "DayOfWeek": "Monday",
-        "WorkoutID": 11,
-        "ScheduledTime": "17:00",
-        "Duration": "30 minutes"
-    },
-    {
-        "UserID": 5,
-        "DayOfWeek": "Wednesday",
-        "WorkoutID": 12,
-        "ScheduledTime": "18:00",
-        "Duration": "45 minutes"
-    },
-    {
-        "UserID": 6,
-        "DayOfWeek": "Tuesday",
-        "WorkoutID": 13,
-        "ScheduledTime": "20:00",
-        "Duration": "60 minutes"
-    },
-    {
-        "UserID": 6,
-        "DayOfWeek": "Thursday",
-        "WorkoutID": 14,
-        "ScheduledTime": "18:00",
-        "Duration": "45 minutes"
-    },
-    {
-        "UserID": 7,
-        "DayOfWeek": "Monday",
-        "WorkoutID": 15,
-        "ScheduledTime": "19:00",
-        "Duration": "40 minutes"
-    },
-    {
-        "UserID": 7,
-        "DayOfWeek": "Wednesday",
-        "WorkoutID": 16,
-        "ScheduledTime": "17:30",
-        "Duration": "50 minutes"
-    },
-    {
-        "UserID": 8,
-        "DayOfWeek": "Tuesday",
-        "WorkoutID": 17,
-        "ScheduledTime": "18:30",
-        "Duration": "45 minutes"
-    },
-    {
-        "UserID": 8,
-        "DayOfWeek": "Thursday",
-        "WorkoutID": 18,
-        "ScheduledTime": "19:00",
-        "Duration": "60 minutes"
-    },
-    {
-        "UserID": 9,
-        "DayOfWeek": "Monday",
-        "WorkoutID": 19,
-        "ScheduledTime": "18:00",
-        "Duration": "45 minutes"
-    },
-    {
-        "UserID": 9,
-        "DayOfWeek": "Friday",
-        "WorkoutID": 20,
-        "ScheduledTime": "17:00",
-        "Duration": "40 minutes"
-    },
-    {
-        "UserID": 10,
-        "DayOfWeek": "Wednesday",
-        "WorkoutID": 1,
-        "ScheduledTime": "20:00",
-        "Duration": "60 minutes"
-    },
-    {
-        "UserID": 10,
-        "DayOfWeek": "Friday",
-        "WorkoutID": 2,
-        "ScheduledTime": "16:30",
-        "Duration": "45 minutes"
+        "Workouts": [
+            {
+                "DayOfWeek": "Hétfő",
+                "WorkoutsDetails": [
+                    {
+                        "WorkoutID": 13,
+                        "Sets": 4,
+                        "Reps": 10,
+                        "StartTime": "07:30",
+                        "EndTime": "08:00",
+                        "Duration": 30,
+                        "RestDuration": "00:01:30",
+                        "Date": "2025-01-22"
+                    },
+                    {
+                        "WorkoutID": 6,
+                        "Sets": 5,
+                        "Reps": 12,
+                        "StartTime": "08:05",
+                        "EndTime": "08:40",
+                        "Duration": 35,
+                        "RestDuration": "00:02:00",
+                        "Date": "2025-01-22"
+                    }
+                ]
+            },
+            {
+                "DayOfWeek": "Szerda",
+                "WorkoutsDetails": [
+                    {
+                        "WorkoutID": 4,
+                        "Sets": 3,
+                        "Reps": 12,
+                        "StartTime": "09:00",
+                        "EndTime": "09:30",
+                        "Duration": 30,
+                        "RestDuration": "00:01:30",
+                        "Date": "2025-01-24"
+                    },
+                    {
+                        "WorkoutID": 14,
+                        "Sets": 4,
+                        "Reps": 10,
+                        "StartTime": "09:35",
+                        "EndTime": "10:05",
+                        "Duration": 30,
+                        "RestDuration": "00:01:30",
+                        "Date": "2025-01-24"
+                    }
+                ]
+            },
+            {
+                "DayOfWeek": "Péntek",
+                "WorkoutsDetails": [
+                    {
+                        "WorkoutID": 2,
+                        "Sets": 5,
+                        "Reps": 12,
+                        "StartTime": "08:30",
+                        "EndTime": "09:00",
+                        "Duration": 30,
+                        "RestDuration": "00:02:30",
+                        "Date": "2025-01-26"
+                    },
+                    {
+                        "WorkoutID": 15,
+                        "Sets": 3,
+                        "Reps": 15,
+                        "StartTime": "09:05",
+                        "EndTime": "09:35",
+                        "Duration": 30,
+                        "RestDuration": "00:01:30",
+                        "Date": "2025-01-26"
+                    }
+                ]
+            }
+        ]
     }
 ]
